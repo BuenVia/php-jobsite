@@ -1,0 +1,14 @@
+{
+    "authors": [
+      {
+        "name": "Matt Clifford",
+        "email": "matthewclifford@hotmail.co.uk"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Framework\\": "Framework/",
+        "App\\": "App/"
+      }
+    }
+  }
